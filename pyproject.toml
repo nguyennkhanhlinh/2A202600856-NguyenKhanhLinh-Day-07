@@ -1,0 +1,10 @@
+[project]
+name = "day-07-2a202600856-nguyenkhanhlinh"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pytest>=7.0",
+    "python-dotenv>=1.0",
+]
